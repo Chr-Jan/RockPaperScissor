@@ -10,6 +10,8 @@
         <li><strong>Replay Option:</strong> Allows the player to continue playing or exit the game.</li>
 </ul>
 <br>
+<img src="GitHub_images/RockPaperScissor.png"/>
+<br>
 <h2>Requirements</h2>
     <ul>
         <li>Python 3.x</li>
